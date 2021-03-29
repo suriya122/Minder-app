@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Minder-app/static/js/main.e532cf8f.chunk.js",
+    "main.js.map": "/Minder-app/static/js/main.e532cf8f.chunk.js.map",
+    "runtime-main.js": "/Minder-app/static/js/runtime-main.dd292e38.js",
+    "runtime-main.js.map": "/Minder-app/static/js/runtime-main.dd292e38.js.map",
+    "static/js/2.d37a1a21.chunk.js": "/Minder-app/static/js/2.d37a1a21.chunk.js",
+    "static/js/2.d37a1a21.chunk.js.map": "/Minder-app/static/js/2.d37a1a21.chunk.js.map",
+    "index.html": "/Minder-app/index.html",
+    "precache-manifest.3b32e00844074a394acd4b93f33cea21.js": "/Minder-app/precache-manifest.3b32e00844074a394acd4b93f33cea21.js",
+    "service-worker.js": "/Minder-app/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd292e38.js",
+    "static/js/2.d37a1a21.chunk.js",
+    "static/js/main.e532cf8f.chunk.js"
+  ]
+}
